@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://deepanshutyagi:tyagino1@clusterbasic-kb7wk.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"mydreamtoken",
+    "githubClientId":"697b3b339cb80cb4b61e",
+    "githubSecret":"b1217cf794888eeb8734935a8b52d9d5575aa7ce"
+}
